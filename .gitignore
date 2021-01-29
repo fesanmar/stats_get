@@ -1,0 +1,9 @@
+.vscode/
+venv/
+*.json
+__pycache__/
+*.py[cod]
+*$.pyclass
+*.so
+*.manifest
+*.spec
